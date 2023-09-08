@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RatishkumarS" alt="RatishkumarS" /></a> </p>
 
 
-- 📫 How to reach me **fanofboruto@gmail.com**
+- 📫 How to reach me **rsarava@ncsu.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
